@@ -69,3 +69,4 @@ Load `dist` directory
 ## Test
 `npx jest` or `npm run test`
 # chrome-extension-typescript-starter
+# chrome-extension-typescript-starter
